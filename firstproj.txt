@@ -1,1 +1,2 @@
-welcome to the first file
+welcome to the first file.
+this is the bug fix
